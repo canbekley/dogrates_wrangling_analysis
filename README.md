@@ -1,7 +1,9 @@
-# Dog Ratings - Wrangling and Visualization
-Created: 10/20/2018<br>
-Latest Update: 10/23/2018<br>
+# Dog Ratings - Advanced Wrangling
+Created: October 20, 2018<br>
+Latest Update: October 23, 2018<br>
 By: Can Bekleyici - bekleydata.com<br>
+
+<img src="project4.jpg" height="400px" width="500px">
 
 ## Summary
 This project aims to to get insightful information about dog ratings from the twitter page WeRateDogs™, while demonstrating advanced data wrangling and visualization techniques using various Python libraries. WeRateDogs™ is a community page on twitter designated to rating dogs on their appearences and stories, and which was formed by the user @dog_rates in 2015. The page has since grown extremely in popularity, with many users sharing its content and requesting their dogs being rated aswell. The site is a driving force for the development of the 'dog culture', with it's famous terms like "pupper", "mlem", "floof" etc. They also developed their own unusual rating system over time, in which almost every dog is rated above 10/10, because "they're good dogs".
@@ -24,4 +26,4 @@ To achieve the goals of the analysis, data have been gathered from different sou
 In order to run the project on your local <code>Anaconda</code>, download all the files and run `wrangle_act.ipynb` on your jupyter notebook. Note that in order to run all the cells, you will have to fill to respective parts with your own twitter api keys.
 
 ### Without Installation:
-You can just view the complete analysis and the used code from the included HTML files `wrangle_act.html` or from the built-in ipynb reader in github without any prerequisitions.
+You can view the complete code by using the GitHub built-in Notebook Viewer with `wrangle_act.ipynb` without any prerequisitions.
